@@ -6,7 +6,7 @@ Test Environment: •	Cucumber Framework •	Java Language •	Intelij IDE •	S
 
 How to run the project
 
-clone the repository from terminal in any folder using git clone "https://github.com/snakarani/FesticketTask.git"
+clone the repository from terminal in any folder using git clone "https://github.com/snakarani/festicketTest.git"
 unzip the folder by right click
 
 open the Intelij IDE
